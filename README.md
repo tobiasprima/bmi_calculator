@@ -1,16 +1,6 @@
 # bmi_calculator
 
-A new Flutter project.
+A BMI Calculator App from Udemy Course The Complete 2021 Flutter Development Bootcamp with Dart by Dr. Angela Yu.
 
-## Getting Started
+![bmi-calc-demo](https://user-images.githubusercontent.com/88434271/181771364-e8a04ee5-053e-4622-9b6d-92b5b304a87c.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
